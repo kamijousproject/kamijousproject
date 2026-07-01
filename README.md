@@ -91,15 +91,7 @@ My interests include
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suttipong02&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 ## Contact
 
-- GitHub : https://github.com/suttipong02
+- GitHub : https://github.com/kamijousproject
 - Buy Me a Coffee : https://buymeacoffee.com/kamijous

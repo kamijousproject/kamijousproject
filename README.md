@@ -14,7 +14,7 @@
 
 ---
 
-## 🌙 Character Profile
+##  Character Profile
 
 ```yaml
 Name: Suttipong
@@ -44,19 +44,19 @@ Passive Skill:
 
 ---
 
-## ⚔ Current Quest
+##  Current Quest
 
-- 🤖 AI Applications & LLM
-- 🛒 Retail Intelligence Platform
-- 👁️ Computer Vision
-- ☁️ Cloud Infrastructure
-- 📱 Flutter Applications
-- 🌐 Enterprise Web Systems
-- ⚡ DevOps & Automation
+-  AI Applications & LLM
+-  Retail Intelligence Platform
+-  Computer Vision
+-  Cloud Infrastructure
+-  Flutter Applications
+-  Enterprise Web Systems
+-  DevOps & Automation
 
 ---
 
-## 🛠 Tech Arsenal
+##  Tech Arsenal
 
 ### Languages
 
@@ -96,7 +96,7 @@ Passive Skill:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -112,17 +112,17 @@ Passive Skill:
 
 ---
 
-## 🎮 Side Missions
+##  Side Missions
 
-- 🔹 Build software that solves real-world problems
-- 🔹 Explore AI and local LLMs
-- 🔹 Learn new technologies every week
-- 🔹 Automate boring tasks
-- 🔹 Share useful open-source projects
+-  Build software that solves real-world problems
+-  Explore AI and local LLMs
+-  Learn new technologies every week
+-  Automate boring tasks
+-  Share useful open-source projects
 
 ---
 
-## 🧩 Currently Exploring
+##  Currently Exploring
 
 ```text
 ▸ Multi-Agent AI
@@ -139,7 +139,7 @@ Passive Skill:
 
 ---
 
-## 📈 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/suttipong02/suttipong02/output/github-contribution-grid-snake-dark.svg" />
@@ -149,7 +149,7 @@ Passive Skill:
 
 ---
 
-## 💭 Motto
+##  Motto
 
 > *"A bug is just another puzzle waiting to be solved."*
 
@@ -163,7 +163,7 @@ Passive Skill:
 
 ---
 
-## 📡 Connect
+##  Connect
 
 <p align="center">
 

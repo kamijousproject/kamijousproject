@@ -120,23 +120,6 @@ Passive Skill:
 ▸ Docker
 ▸ Kubernetes
 ```
-
----
-
-##  Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/suttipong02/suttipong02/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> **Note:** ต้องตั้ง GitHub Actions เพื่อสร้าง Snake ก่อน ไม่งั้นรูปจะไม่ขึ้น
-
----
-
-##  Motto
-
-> *"A bug is just another puzzle waiting to be solved."*
-
 ---
 
 ## ☕ Random Dev Quote

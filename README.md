@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは 👋 I'm Suttipong</h1>
+<h1 align="center"> I'm Kamijous</h1>
 
 <p align="center">
   <strong>Full Stack Developer • AI Engineer • Cloud Enthusiast</strong>
